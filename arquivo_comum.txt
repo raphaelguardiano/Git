@@ -1,1 +1,3 @@
-Arquivo que será alterado tanto no local como no remoto
+Arquivo que será alterado tanto no local como no remoto.
+
+Linha cópia Local
